@@ -1,4 +1,6 @@
 ![Captura de tela 2024-06-23 220804](https://github.com/VictorSilvaCamargo/DeveloperTest-MeistersSolutions/assets/107776635/67088a81-ca33-45e9-a2fe-4d3da2309dff)
+
+
 Acima tem uma imagem dos resultados dos 3 testes
 
 1 - Teste de filtrar strings de uma lista em que a primeira letra é o caractere "a" e que tenha no maximo 3 letras
